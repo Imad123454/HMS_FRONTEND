@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "firstName": "inaya",
+      "lastName": "ali",
+      "username": "ali_inaya8",
+      "email": "inaya@gmail.com",
+      "password": "Password%456",
+      "address": "aishbagh stadium",
+      "mobileNumber": "7987650023",
+      "id": 1
+    },
+    {
+      "firstName": "inaya",
+      "lastName": "ali",
+      "username": "Inaya_ali8",
+      "email": "inaya@gmail.com",
+      "password": "Password890",
+      "address": "Aishbagh",
+      "mobileNumber": "9303118202",
+      "id": 2
+    }
+  ],
+  "departments": [
+    {
+      "doctors": [
+        {
+          "name": "DR. AMIT JAISWAL"
+        },
+        {
+          "name": "DR.HEMANT KUMAR PANDEY"
+        },
+        {
+          "name": "DR.MAHESH SHARMA"
+        },
+        {
+          "name": "DR.SWAPNIL.S.GARDE"
+        }
+      ],
+      "department": "CARDIOLOGY",
+      "slots": [
+        {
+          "doctorId": 1,
+          "date": "2025-06-05",
+          "times": [
+            "09:00 AM",
+            "10:30 AM",
+            "02:00 PM"
+          ]
+        },
+        {
+          "doctorId": 2,
+          "date": "2025-06-05",
+          "times": [
+            "11:00 AM",
+            "01:00 PM"
+          ]
+        }
+      ]
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.VARSHA SHARMA"
+        }
+      ],
+      "department": "DENTAL",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": " DR.RAHUL VERMA"
+        }
+      ],
+      "department": "ENT",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.PUNIT DIXIT"
+        },
+        {
+          "name": "DR.SIDHARTH GURWANI"
+        }
+      ],
+      "department": " GENERAL SURGERY",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.ANKIT TIWARI "
+        },
+        {
+          "name": "PRAKHAR GUPTA "
+        },
+        {
+          "name": "DR.SUBHANJALI JOSHI"
+        }
+      ],
+      "department": "GENERAL MEDICINE",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": " DR.SOMESH GARDE"
+        }
+      ],
+      "department": " PAIN CLINIC",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.RITU SINGHAL"
+        }
+      ],
+      "department": "PATHOLOGY",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.AJAY JHA"
+        }
+      ],
+      "department": "NEPHROLOGY",
+      "slots": ""
+    },
+    {
+      "doctors": [
+        {
+          "name": "DR.MANISH SHAKYA"
+        },
+        {
+          "name": "DR.SIDDHARTH RAGHUWANSHI"
+        }
+      ],
+      "department": "NEUROLOGY",
+      "slots": ""
+    }
+  ]
+}

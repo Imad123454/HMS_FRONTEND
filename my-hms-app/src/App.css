@@ -1,0 +1,29 @@
+ /* Custom Calendar  */
+.highlight{
+  background-color: #3b82f6;
+  border-radius: 50%;
+}
+.react-datepicker {
+  font-size: 1rem;
+  border: none;
+  font-style: italic;
+  column-gap: 2px;
+  row-gap: 2px;
+}
+
+.react-datepicker__month-container {
+  background-color: rgba(255, 255, 255, 0.704);
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.react-datepicker__day--selected,
+.react-datepicker__day--keyboard-selected {
+  background-color: #3b82f6 !important; /* blue-500 */
+  color: white;
+}
+
+.react-datepicker__day:hover {
+  background-color: #dbeafe4f !important; /* blue*/
+}
